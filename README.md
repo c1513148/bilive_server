@@ -2,7 +2,7 @@
   * 第一次使用
     1. 安装[Git](https://git-scm.com/downloads)
     2. 安装[Node.js](https://nodejs.org/)
-    3. 命令行 `git clone https://github.com/Blokura/bilive_server.git`
+    3. 命令行 `git clone https://github.com/c1513148/bilive_server.git`
     4. 命令行 `cd bilive_server`
     5. 命令行 `mkdir options`
     6. 命令行 `cp nedb/roomList.db options/roomList.db`
